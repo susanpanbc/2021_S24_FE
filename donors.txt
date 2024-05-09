@@ -1,0 +1,45 @@
+11,Wendy Robison,Genetics Sports,266.89
+20,Noel Blanchard,North American Chemical Pharmecuticals,646.47
+22,Hubert Carroll,Aeromantics,209.14
+25,Merle Atkins,Cybernautics,542.41
+27,Ted Haines,Genetic Limited Telecommunications,278.83
+32,Josh Roth,British General Shipping,559.63
+38,Pearl Gould,Applied Bionautics,532.76
+39,Julia Keller,Diagnostic Instruments,547.05
+48,Alicia McClain,Office Paragon Biological,239.43
+62,Paul Metcalf,Barron Personal Air Engineering,105.24
+68,Tracey Dillon,Integration Leasing Industrial,458.06
+69,Charles Fuentes,Development Research,230.92
+79,Justin Blake,Johnston Gold Networks,436.27
+81,Luz Novak,Medical Transportation Motors,303.86
+87,Jonathan Hale,Alternative System Semiconductor,445.53
+11,Wendy Robison,Genetics Sports,246.37
+20,Noel Blanchard,North American Chemical Pharmecuticals,590.65
+22,Hubert Carroll,Aeromantics,331.87
+25,Merle Atkins,Cybernautics,144.56
+27,Ted Haines,Genetic Limited Telecommunications,547.77
+32,Josh Roth,British General Shipping,676.69
+38,Pearl Gould,Applied Bionautics,170.21
+39,Julia Keller,Diagnostic Instruments,212.27
+48,Alicia McClain,Office Paragon Biological,261.41
+62,Paul Metcalf,Barron Personal Air Engineering,584.30
+68,Tracey Dillon,Integration Leasing Industrial,464.85
+69,Charles Fuentes,Development Research,144.36
+79,Justin Blake,Johnston Gold Networks,491.19
+81,Luz Novak,Medical Transportation Motors,229.16
+87,Jonathan Hale,Alternative System Semiconductor,181.39
+11,Wendy Robison,Genetics Sports,695.46
+22,Hubert Carroll,Aeromantics,271.37
+25,Merle Atkins,Cybernautics,203.54
+27,Ted Haines,Genetic Limited Telecommunications,269.61
+32,Josh Roth,British General Shipping,415.33
+38,Pearl Gould,Applied Bionautics,338.29
+39,Julia Keller,Diagnostic Instruments,670.07
+48,Alicia McClain,Office Paragon Biological,162.06
+62,Paul Metcalf,Barron Personal Air Engineering,479.44
+68,Tracey Dillon,Integration Leasing Industrial,690.59
+69,Charles Fuentes,Development Research,300.11
+79,Justin Blake,Johnston Gold Networks,340.59
+11,Wendy Robison,Genetics Sports,296.15
+81,Luz Novak,Medical Transportation Motors,366.46
+87,Jonathan Hale,Alternative System Semiconductor,220.60
